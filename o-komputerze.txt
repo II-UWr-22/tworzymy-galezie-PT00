@@ -1,1 +1,52 @@
 Linux pt-desktop 5.15.0-52-generic #58-Ubuntu SMP Thu Oct 13 08:03:55 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        7929276 kB
+MemFree:         4433260 kB
+MemAvailable:    5990200 kB
+Buffers:           65500 kB
+Cached:          2146728 kB
+SwapCached:            0 kB
+Active:           805928 kB
+Inactive:        1950972 kB
+Active(anon):       4060 kB
+Inactive(anon):  1028224 kB
+Active(file):     801868 kB
+Inactive(file):   922748 kB
+Unevictable:      406340 kB
+Mlocked:              16 kB
+SwapTotal:       2097148 kB
+SwapFree:        2097148 kB
+Dirty:               316 kB
+Writeback:             0 kB
+AnonPages:        951012 kB
+Mapped:           520548 kB
+Shmem:            499588 kB
+KReclaimable:     106608 kB
+Slab:             197092 kB
+SReclaimable:     106608 kB
+SUnreclaim:        90484 kB
+KernelStack:       11152 kB
+PageTables:        20972 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     6061784 kB
+Committed_AS:    5385184 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       37088 kB
+VmallocChunk:          0 kB
+Percpu:             4096 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      211404 kB
+DirectMap2M:     5869568 kB
+DirectMap1G:     3145728 kB
